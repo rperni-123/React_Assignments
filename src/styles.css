@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  table-layout: fixed;
+  width: 70%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 20px;
+}
+
+th {
+  text-align: left;
+}
